@@ -24,11 +24,11 @@ To develop a predictive model that estimates molecular solubility from descripto
 
 # Output
 
-*A regression model that predicts logS values for molecules.
+* A regression model that predicts logS values for molecules.
 
-*Visualizations showing how predicted solubility matches experimental data.
+* Visualizations showing how predicted solubility matches experimental data.
 
-*Quantitative metrics (MSE, R²) to assess model accuracy.
+* Quantitative metrics (MSE, R²) to assess model accuracy.
 
  # Achieved Output
 
