@@ -1,14 +1,14 @@
 # ML-model-linear-regression-prediction...
-🧪 Molecular Solubility Prediction Using Linear Regression
-📝 Project Overview
+Molecular Solubility Prediction Using Linear Regression
+
 
 This project implements a Linear Regression model to predict the aqueous solubility (logS) of molecules based on their chemical descriptors. Accurate solubility prediction is important in drug discovery, chemical research, and material design.
 
-🎯 Aim
+Aim
 
 To develop a predictive model that estimates molecular solubility from descriptors like MolLogP, MolWt, NumRotatableBonds, and AromaticProportion.
 
-🔨 Work Done
+ Work Done
 
 1) Loaded and analyzed a molecular dataset containing chemical descriptors and solubility values.
 
@@ -22,23 +22,23 @@ To develop a predictive model that estimates molecular solubility from descripto
 
 6) Visualized predictions vs actual solubility values using scatter plots and regression lines.
 
-📌 Expected Output
+Expected Output
 
-A regression model that predicts logS values for molecules.
+#A regression model that predicts logS values for molecules.
 
-Visualizations showing how predicted solubility matches experimental data.
+#Visualizations showing how predicted solubility matches experimental data.
 
-Quantitative metrics (MSE, R²) to assess model accuracy.
+#Quantitative metrics (MSE, R²) to assess model accuracy.
 
-✅ Achieved Output
+ Achieved Output
 
-Trained Linear Regression model with good predictive performance.
+* Trained Linear Regression model with good predictive performance.
 
-Training R²: ~0.76, Test R²: ~0.79, indicating strong correlation.
+* Training R²: ~0.76, Test R²: ~0.79, indicating strong correlation.
 
-Generated regression plots showing predicted vs experimental solubility.
+* Generated regression plots showing predicted vs experimental solubility.
 
-Demonstrated that molecular descriptors can effectively estimate solubility.
+* Demonstrated that molecular descriptors can effectively estimate solubility.
 
 🛠️ Technologies Used
 
